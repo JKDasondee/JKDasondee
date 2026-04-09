@@ -1,34 +1,17 @@
 # Jay Dasondee
 
-Software engineer. Go, Python, TypeScript. Systems, ML/NLP, competitive programming.
+ML/NLP systems · Go · Python
 
-## Now
+Building [`hallucination-detector`](https://github.com/JKDasondee/hallucination-detector) — pip-installable claim extraction + NLI verification for LLM outputs.
 
-Building an LLM hallucination detector — claim extraction + NLI verification + RAG grounding.
-Previously community ops engineering at Glider.Fi (DeFi, Dragonfly Capital).
-Interested in AI/ML systems and defense tech.
-
-## Competitive Programming
+Previously: ops engineering at [Glider.Fi](https://glider.fi) (Dragonfly Capital). Scaled community from 0→44K.
 
 ```
-Platform   | Rating / Rank
------------|--------------------------
-CodeChef   | 6-star
-LeetCode   | Guardian (top 0.3%)
-AtCoder    | Global Rank 93
+CodeChef    6★
+LeetCode    Guardian (top 0.3%)
+AtCoder     Global #93
 ```
 
-## Stack
+BCA Data Science · SRM Chennai · 9.34 CGPA
 
-- **Languages:** Go, Python, TypeScript
-- **ML/NLP:** transformers, NLI, RAG pipelines, embeddings
-- **Systems:** distributed systems, APIs, infra
-
-## Education
-
-BCA in Data Science, SRM Chennai — 9.34/10 CGPA
-
-## Links
-
-- [LinkedIn](https://linkedin.com/in/jay-dasondee)
-- jkdasondee@gmail.com
+[LinkedIn](https://linkedin.com/in/jay-dasondee) · jkdasondee@gmail.com
