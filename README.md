@@ -14,4 +14,4 @@ LeetCode    Guardian (top 0.3%)
 AtCoder     Global #93
 ```
 
-[jaydasondee.github.io](https://jaydasondee.github.io) · [LinkedIn](https://linkedin.com/in/jay-dasondee) · jkdasondee@gmail.com
+[jaydasondee.github.io](https://jaydasondee.github.io) · [LinkedIn](https://linkedin.com/in/jkdasondee) · jkdasondee@gmail.com
