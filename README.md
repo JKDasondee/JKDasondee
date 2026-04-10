@@ -58,4 +58,4 @@ Infra        FastAPI · ChromaDB · PostgreSQL · Docker · Redis
 
 ---
 
-[linkedin.com/in/jkdasondee](https://linkedin.com/in/jkdasondee) · jkdasondee@gmail.com · [jaydasondee.github.io](https://jaydasondee.github.io)
+[linkedin.com/in/jkdasondee](https://linkedin.com/in/jkdasondee) · jkdasondee@gmail.com · [jkdasondee.github.io](https://jkdasondee.github.io)
