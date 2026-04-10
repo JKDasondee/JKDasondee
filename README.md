@@ -27,9 +27,9 @@ AtCoder      Global Rank #93
 | Repo | Stars | Contribution |
 |---|---|---|
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader/pull/3831) | 7K | Fix Hyperliquid cancel-replace emitting false CANCELED event |
-| [LightGBM](https://github.com/microsoft/LightGBM) | 16K | Bug fixes |
-| [microsoft/qlib](https://github.com/microsoft/qlib/pull/2188) | 15K | Fix WMA double-divides by N in Alpha158 |
-| [darts](https://github.com/unit8co/darts) | 8K | Contributions |
+| [LightGBM](https://github.com/lightgbm-org/LightGBM/pull/7224) | 16K | Fix WeightedPercentileFun CDF segment + SingleRowPredictor cache key |
+| [microsoft/qlib](https://github.com/microsoft/qlib/pull/2189) | 15K | Add Sortino, Calmar, max drawdown duration to risk_analysis |
+| [darts](https://github.com/unit8co/darts/pull/3065) | 8K | Fix StaticCovariatesTransformer IndexError with OneHotEncoder drop |
 | [chroma](https://github.com/chroma-core/chroma/pull/6851) | 16K | Document FTS regex engine constraints |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/33718) | 60K | Fix SGD `partial_fit` zero-weight `t_` state corruption |
 
