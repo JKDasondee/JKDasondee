@@ -2,7 +2,7 @@
 
 **ML Systems · Quant Research · HFT · Open Source**
 
-Building systems where statistical models meet production constraints. Go-first, Python when the math demands it.
+Order-book dynamics, market making, execution research, and ML systems that evaluate themselves honestly. Go-first, Python when the math demands it.
 
 ---
 
@@ -10,7 +10,7 @@ Building systems where statistical models meet production constraints. Go-first,
 
 | Repo | Stars | Contribution |
 |---|---|---|
-| [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/33718) | 60K | Fix SGD `partial_fit` zero-weight state corruption (t\_ advances incorrectly) |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/33718) | 60K | Fix SGD `partial_fit` zero-weight state corruption (`t_` advances incorrectly) |
 | [pandas](https://github.com/pandas-dev/pandas/pull/65145) | 44K | Fix `SeriesGroupBy.ohlc()` ignoring `as_index=False` |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader/pull/3831) | — | Fix Hyperliquid cancel-replace emitting false CANCELED event |
 | [microsoft/qlib](https://github.com/microsoft/qlib/pull/2188) | 15K | Fix WMA double-divides by N (`nanmean` → `nansum`) in Alpha158 |
